@@ -1,0 +1,495 @@
+2024-01-23 WIZO, Substage, Karlsruhe
+2023-12-06 Skindred, Substage, Karlsruhe
+2023-11-10 Moop Mama, ZKM, Karlsruhe
+2023-11-08 Queens of the Stone Age, Jahrhunderthalle, Frankfurt
+2023-10-22 De Staat, Alte Feuerwache, Mannheim
+2023-10-21 Tina Dico, Liederhalle, Stuttgart
+2023-10-14 Philipp Boa, Substage, Karlsruhe
+2023-10-13 Lauren Mayberry, Strom, Munich
+2023-09-26 K.Flay, Luxor, Köln
+2023-09-25 Blood Red Shoes, Nachtleben, Frankfurt
+2023-08-12 Kraftwerk, Schloss Karlsruhe, Karlsruhe
+2023-07-28 Russian Circles, P8, Karlsruhe
+2023-07-26 Bonaparte & Sophie Hunger, Tollhaus, Karlsruhe
+2023-07-01 Depeche Mode, Deutsche Bank Park, Frankfurt
+2023-06-27 Black Keys, Palladium, Köln
+2023-06-20 Behemoth, Substage, Karlsruhe
+2023-06-15 Get Well Soon, BuGa, Mannheim
+2023-06-13 Royal Blood, Maimarktgelaende, Mannheim
+2023-06-09 (Muse, Royal Blood), Rhein-Energie Stadion, Köln
+2023-06-05 Nothing But Thieves, LKA Longhorn, Stuttgart
+2023-05-06 Olli Schulz, Tollhaus, Karlsruhe
+2023-05-06 The Guilt, Alte Hackerei, Karlsruhe
+2023-05-01 ASP, Schlachthof, Wiesbaden 
+2023-04-12 Eels, La Laiterie, Strassburg
+2023-04-06 Thy Art is Murder, Substage, Karlsruhe
+2023-03-31 Avatar, Substage, Karlsruhe
+2023-03-29 Grailknights, Substage, Karlsruhe
+2023-03-18 Spidergawd, Backstage, Muenchen
+2023-03-04 Algiers, Manufaktur, Schorndorf
+2022-10-30 Sigur Ros, Jahrhunderthalle, Frankfurt
+2022-10-29 Deine Lakaien, Scala, Ludwigsburg
+2022-10-27 De Staat, Substage, Karlsruhe
+2022-10-26 (Behemoth, Arch Enemy), Jahrhunderthalle, Frankfurt
+2022-10-22 Placebo, Barcley Arena, Hamburg
+2022-09-29 The Guilt, Alte Hackerei, Karlsruhe
+2022-08-05 Nick Cave, Burg Clam, Clam
+2022-08-03 Nick Cave, Schloss, Rastatt
+2022-07-23 (Passenger, Mia, Dubioza Kolektiv), Das Fest, Karlsruhe
+2022-07-22 (Jan Delay & Disko No.1, Blond), Das Fest, Karlsruhe
+2022-07-21 Bilderbuch, Das Fest, Karlsruhe
+2022-07-20 Seeed, Das Fest, Karlsruhe
+2022-07-12 Gogol Bordello, Substage, Karlsruhe
+2022-06-11 (Royal Blood, Anna Calvi, Interpol, The Strokes), Tempelhof Sounds Festival, Berlin
+2022-06-10 (Muse, Alt-J, IDLES, Johnossi, Black Honey, Cleopatrick), Tempelhof Sounds Festival, Berlin
+2022-06-09 (Florence + The Machine, The Libertines), Tempelhof Sounds Festival, Berlin
+2022-06-08 Cleopatrick, Nachtleben, Frankfurt
+2022-06-05 The Rolling Stones, Olympiastadion, Muenchen
+2022-06-02 July Talk, Knust, Hamburg
+2022-06-01 July Talk, Hole44, Berlin
+2022-05-31 July Talk, Strom, Muenchen
+2022-05-26 The Subways, Substage, Karlsruhe
+2022-05-19 Grossstadtgefluester, Tollhaus, Karlsruhe
+2022-05-09 Vex, Kulturcafe, Mainz
+2022-05-05 Does It Offend You, Yeah?, Electric Ballroom, London
+2022-04-26 Woodkid, Schlachthof, Wiesbaden
+2022-04-11 Nothing But Thieves, Schlachthof, Wiesbaden
+2021-07-24 Grossstadtgefluester / Sylvie Kreusch, Messegelaende, Karlsruhe
+2021-07-21 Anna Ternheim, Stadtpark, Hamburg
+2021-07-20 VKGoesWild, Schroedingers, Hamburg
+2020-10-24 The Guilt, Molotow Backyard, Hamburg
+2020-02-28 Deichkind, Hans-Martin-Schleyer Halle, Stuttgart
+2020-02-17 Algiers, Zoom, Frankfurt
+2020-01-25 Kettcar, Staatstheater, Braunschweig
+2019-12-01 Skindred, Substage, Karlsruhe
+2019-11-26 Bonaparte, Wagenhallen, Stuttgart
+2019-11-01 De Staat, Halle02, Heidelberg
+2019-10-31 Blood Red Shoes, Strom, Muenchen
+2019-10-25 Get Well Soon, Scala, Ludwigsburg
+2019-10-13 Medicine Boy, Hafen 2, Offenbach
+2019-10-11 Clawfinger, Substage, Karlsruhe
+2019-09-18 Amanda Palmer, Theaterhaus, Stuttgart
+2019-09-14 The Guilt, Kreativfabrik, Wiesbaden
+2019-09-10 Muse, Mercedes-Benz Arena, Berlin
+2019-09-08 Kings of Leon, Kraftklub (Lollapalooza), Berlin
+2019-08-31 Eels, Im Wizemann, Stuttgart
+2019-08-06 Nova Twins / Prophets Of Rage, Schlachthof, Wiesbaden
+2019-08-03 Tina Dico, Tollhaus, Karlsruhe
+2019-07-23 Royal Blood, Schlachthof, Wiesbaden
+2019-07-21 Rival Sons, Das Fest, Karlsruhe
+2019-07-20 Grossstadtgefluester, Das Fest, Karlsruhe
+2019-07-19 Kettcar, Das Fest, Karlsruhe
+2019-07-10 God Is An Astronaut, Substage, Karlsruhe
+2019-07-09 Anna Calvi, Tollhaus, Karlsruhe
+2019-06-22 Du Blonde / Garbage, Muffathalle, Muenchen
+2019-06-16 Tocotronic / Faber (Maifeld Derby), Mannheim
+2019-06-15 Cari Cari / De Staat / Kate Tempest / Von Wegen Lisbeth / Balthazar (Maifeld Derby), Mannheim
+2019-06-14 Gurr / Sleaford Mods / Hot Chip (Maifeld Derby), Mannheim
+2019-06-08 The Humming Womb, Multihalle, Mannheim
+2019-06-05 Interpol, Schlachthof, Wiesbaden
+2019-06-01 Elton John, Bowling Green, Wiesbaden
+2019-04-19 The Guilt, KulturA, Liege
+2019-04-13 Kakkmaddafakka, Alte Feuerwache, Mannheim
+2019-04-11 Gurr, Schon Schoen, Mainz
+2019-04-10 Bonaparte, Schon Schoen, Mainz
+2019-04-08 Bonaparte, Rote Sonne, Muenchen
+2019-04-06 Philipp Boa, Substage, Karlsruhe
+2019-03-22 Grossstadtgefluester, Live Music Hall, Koeln
+2019-03-21 Grossstadtgefluester, Im Wizemann, Stuttgart
+2019-03-02 Florence + The Machine, Olympiahalle, Muenchen
+2019-02-08 Blood Red Shoes, Point Ephemere, Paris
+2019-02-04 Massive Attack, Jahrhunderthalle, Karlsruhe
+2019-01-26 Fuenf Sterne Deluxe, Substage, Karlsruhe
+2019-01-17 Moop Mama, Substage, Karlsruhe
+2019-01-10 WIZO, Halle02, Heidelberg
+2018-12-12 Wolf Alice, Halle02, Heidelberg
+2018-11-29 Long Distance Calling, Stadtmitte, Karlsruhe
+2018-11-27 The Glitch Mob, Alte Feuerwache, Mannheim
+2018-11-14 Metric, Gibson, Frankfurt
+2018-11-11 CHVRCHES, LKA Longhorn, Stuttgart
+2018-11-09 Courtney Barnett, Schlachthof, Wiesbaden
+2018-11-06 CHVRCHES, Live Music Hall, Koeln
+2018-10-31 The Dresden Dolls, Troxy, London
+2018-10-30 The Dresden Dolls, Troxy, London
+2018-10-28 Get Well Soon, Theaterhaus, Stuttgart
+2018-10-24 Frank Turner, LKA Longhorn, Stuttgart
+2018-10-17 Tina Dico, Theaterhaus, Stuttgart
+2018-10-13 Schmutzki, Zoom, Frankfurt
+2018-09-27 Elaekelaeiset, Substage, Karlsruhe
+2018-08-17 Olli Schulz, Zitadelle, Mainz
+2018-07-25 Gogol Bordello, Substage, Karlsruhe
+2018-07-19 Eels, La Laiterie, Strassbourg
+2018-07-07 The Baboon Show, Alte Hackerei, Karlsruhe
+2018-06-25 Eels, TonHalle, Muenchen
+2018-06-17 A Perfect Circle, Zitadelle, Berlin
+2018-05-30 LCD Soundsystem, Tempodrom, Berlin
+2018-04-20 The Glitch Mob, La Trabendo, Paris
+2018-04-19 Bilderbuch, Substage, Karlsruhe
+2018-04-18 Arcade Fire, Festhalle, Frankfurt
+2018-04-01 The Guilt, Oettinger Villa, Darmstadt
+2018-03-28 The Guilt, Sonic Ballroom, Koeln
+2018-03-23 The Guilt, Alte Hackerei, Karlsruhe
+2018-03-18 Editors, Schlachthof, Wiesbaden
+2018-03-17 Fever Ray, Paladium, Koeln
+2018-03-06 Laibach, Kolbenhalle, Mannheim
+2018-02-26 Algiers, Zoom, Frankfurt
+2018-02-17 Deine Lakaien, Rosengarten, Mannheim
+2018-02-07 Kakkmaddafakka, Halle02, Heidelberg
+2018-01-09 Wolf Alice, Zoom, Frankfurt
+2017-12-13 Johnossi, Substage, Karlsruhe
+2017-11-30 Depeche Mode, SAP Arena, Mannheim
+2017-11-21 Sophia, Karlstorbahnhof, Heidelberg
+2017-11-15 Archive, Substage, Karlsruhe
+2017-11-12 Glen Hansard, Alte Oper, Frankfurt am Main
+2017-11-07 Birdeatsbaby, Dorfschaenke, Karlsruhe
+2017-11-05 !!!, Luxor, Koeln
+2017-11-02 Warhaus, Schlachthof, Wiesbaden
+2017-10-31 Kasabian, C-Halle, Berlin
+2017-10-30 Wolf Alice, Festsaal Kreuzberg, Berlin
+2017-10-15 Lorde, Tempodrom, Berlin
+2017-10-14 Sigur Ros, Jahrhunderthalle, Frankfurt
+2017-10-05 Beth Ditto, Batschkapp, Frankfurt
+2017-10-04 Schnipo Schranke, Jubez, Karlsruhe
+2017-09-24 Portugal. The Man, Substage, Karlsruhe
+2017-09-13 The Guilt, Kreativfabrik, Wiesbaden
+2017-09-01 Grossstadtgefluester, Kantine, Augsburg
+2017-08-18 The Red Paintings, Das Bett, Frankfurt
+2017-08-17 Kettcar, Thees Uhlmann, Substage, Karlsruhe
+2017-08-16 The Naked And Famous (T/N/A/F), Gibson, Frankfurt
+2017-08-15 Conor Oberst, Batschkapp, Frankfurt
+2017-08-05 Get Well Soon, Tollhaus, Karlsruhe
+2017-08-04 Max und Iggor Cavalera, Substage, Karlsruhe
+2017-07-28 Reel Big Fish, Richard Cheese, Dual Core, Caesars Palace, Las Vegas (Defcon)
+2017-07-22 Feine Sahne Fischfilet, Guenther-Klotz Anlage, Karlsruhe (Das Fest)
+2017-07-21 Astronautalis, Guenther-Klotz Anlage, Karlsruhe (Das Fest)
+2017-07-09 ZZ Top, Loreley
+2017-07-08 Scooter, SparkassenPark, Moenchengladbach
+2017-07-02 Kyle Gass Band, Substage, Karlsruhe
+2017-06-24 Grossstadtgefluester, Uni-Fest, Karlsruhe
+2017-06-18 Amanda Palmer, Maimarktgelaende, Mannheim
+2017-06-17 Kate Tempest, Maimarktgelaende, Mannheim
+2017-06-16 Bilderbuch, Maimarktgelaende, Mannheim
+2017-06-07 The Kills, Taeubchenthal, Leipzig
+2017-05-23 Royal Blood, Luxor, Koeln
+2017-05-20 Rhonda, Substage, Karlsruhe
+2017-05-19 God Is An Astronaut, Substage, Karlsruhe
+2017-05-18 The Guilt, Kurzbar,  Mannheim
+2017-05-17 The Guilt, Oetinger Villa,  Darmstadt
+2017-05-16 The Red Paintings, Schlachthof, Wiesbaden
+2017-05-14 Sleaford Mods, Schlachthof, Wiesbaden
+2017-04-26 Elaekelaeiset, Substage, Karlsruhe
+2017-04-13 ASP, Substage, Karlsruhe
+2017-03-14 Warpaint, Batschkapp (neu), Frankfurt
+2017-03-03 Rhonda, Alte Hackerei, Karlsruhe
+2017-02-26 The xx, Jahrhunderthalle, Frankfurt
+2017-02-17 Grossstadtgefluester, Club Bahnhof Ehrenfeld, Koeln
+2017-01-21 Conor Oberst, Gloria, Koeln
+2017-01-20 Astronautalis, Halle02, Heidelberg
+2016-12-21 Mia., Substage, Karlsruhe
+2016-12-14 Vika Goes Wild, Jubez, Karlsruhe
+2016-12-05 Tiger Lou, Schlachthof, Wiesbaden
+2016-12-01 Moop Mama, Substage, Karlsruhe
+2016-11-25 Ira Atari, Kulturpalast, Wiesbaden
+2016-11-19 Phillip Boa & The Voodooclub, Substage, Karlsruhe
+2016-11-18 Sportfreunde Stiller, Substage, Karlsruhe
+2016-11-10 Beginner, Maimarkthalle, Mannheim
+2016-11-09 WIZO, Halle02, Heidelberg
+2016-11-06 The Cure, Hans-Martin-Schleyer Halle, Stuttgart
+2016-11-03 Amanda Palmer, Die Kantine, Koeln
+2016-11-01 John Grant, Mousonturm, Frankfurt am Main
+2016-10-30 Passenger, Jahrhunderthalle, Frankfurt am Main
+2016-10-28 John Grant, Karlstorbahnhof, Heidelberg
+2016-10-25 The Kills, E-Werk, Koeln
+2016-10-23 Get Well Soon, Nationaltheater, Mannheim
+2016-10-15 PJ Harvey, Palladium, Koeln
+2016-09-17 Young Chinese Dogs, Substage, Karlsruhe
+2016-09-03 Wolf Alice, Zoom, Frankfurt am Main
+2016-08-27 Blood Red Shoes, Gloria, Koeln
+2016-08-09 Damien Rice, Tanzbrunnen, Koeln
+2016-08-03 Skrillex, Surrender Nightclub (Encore), Las Vegas
+2016-08-03 Elle King, Foundation Room (Mandalay Bay), Las Vegas
+2016-08-02 Alice In Chains, House of Blues (Mandalay Bay), Las Vegas
+2016-07-22 Fettes Brot, Guenther-Klotz-Anlage, Karlsruhe
+2016-07-20 Kitty, Daisy & Lewis, Kulturzentrum Tollhaus e.V., Karlsruhe
+2016-07-19 Grimes, Hilton Hotel, Berlin
+2016-07-16 Cat Power, Kulturzentrum Tollhaus e.V., Karlsruhe
+2016-06-18 Vika Goes Wild, Wohnzimmer, Hadamar
+2016-06-14 Deftones, Palladium, Koeln
+2016-05-12 Vika Goes Wild, Kymo, Karlsruhe
+2016-05-06 Long Distance Calling, Substage, Karlsruhe
+2016-04-24 Sophia, Artheater, Koeln
+2016-04-22 Tina Dico, Staatstheater, Darmstadt
+2016-04-10 Anna Ternheim, Zoom, Frankfurt am Main
+2016-04-09 Birdeatsbaby, Kohi, Karlsruhe
+2016-04-07 Laibach, Batschkapp (neu), Frankfurt am Main
+2016-04-06 CHVRCHES, C-Halle, Berlin
+2016-04-05 CHVRCHES, Tonhalle, Muenchen
+2016-04-04 CHVRCHES, E-Werk, Koeln
+2016-04-01 ASP, Im Wizemann, Stuttgart
+2016-03-08 Get Well Soon, Im Wizemann, Stuttgart
+2016-03-06 Muse, Lanxess Arena, Koeln
+2016-02-28 Foals, Batschkapp (neu), Frankfurt am Main
+2016-01-15 Feine Sahne Fischfilet, Substage, Karlsruhe
+2015-12-19 Katzenjammer, Jahrhunderthalle, Frankfurt am Main
+2015-12-14 Yukon Blonde, Milla, Muenchen
+2015-12-13 Florence + the Machine, Velodrom, Berlin
+2015-12-12 Does It Offend You, Yeah?, Electric Ballroom, London
+2015-12-05 Rhonda, Alte Hackerei, Karlsruhe
+2015-12-03 Rhonda, ClubCANN, Stuttgart
+2015-12-02 The Subways, Substage, Karlsruhe
+2015-11-27 CHVRCHES, Alexandra Palace, London
+2015-11-26 Bilderbuch, Substage, Karlsruhe
+2015-11-21 Kaki King, Bogen F, Zuerich
+2015-11-16 Fettes Brot, Maimarkthalle, Mannheim
+2015-11-03 K's Choice, Hannah Lou Clark, Artefact, Strasbourg
+2015-10-31 Garbage, Palladium, Koeln
+2015-10-30 Rotersand, Alte Seilerei, Mannheim
+2015-10-24 ASP, Halle02, Heidelberg
+2015-10-22 Metric, Batschkapp (neu), Frankfurt am Main
+2015-10-18 God Is An Astronaut, Im Wizemann, Stuttgart
+2015-10-06 Tina Dico, Capitol, Mannheim
+2015-08-26 Babymetal, Batschkapp (neu), Frankfurt am Main
+2015-08-20 Farin Urlaub, Kindl Buehne Wuhlheide, Berlin
+2015-07-21 Patti Smith, Kulturzentrum Tollhaus e.V., Karlsruhe
+2015-07-16 Fear Factory, Substage, Karlsruhe
+2015-07-11 The World/Inferno Friendship Society, Komma, Esslingen
+2015-07-10 Tiger Lou, Gebaeude 9, Koeln
+2015-06-24 The World/Inferno Friendship Society, Schlachthof, Wiesbaden
+2015-06-20 Vika Goes Wild, Theaterhaus, Stuttgart
+2015-06-06 Faith No More, Zitadelle Spandau, Berlin
+2015-06-03 Farin Urlaub, Jahrhunderthalle, Frankfurt am Main
+2015-05-22 Archive, Maimarkthalle, Mannheim
+2015-05-07 Nick Cave, Liederhalle, Stuttgart
+2015-05-03 Kyle Gass Band, Substage, Karlsruhe
+2015-04-26 Junior, Karlstorbahnhof, Heidelberg
+2015-04-25 Sleaford Mods, Schlachthof, Wiesbaden
+2015-04-18 Karin Park, Karlstorbahnhof, Heidelberg
+2015-04-15 Deichkind, Schwarzwaldhalle, Karlsruhe
+2015-04-08 Bernhard Eder, Kohi, Karlsruhe
+2015-03-10 Katzenjammer, Maimarkthalle, Mannheim
+2015-01-31 Get Well Soon, Wagenhallen, Stuttgart
+2014-12-01 Hannah Lou Clark, St Pancras Old Church, London
+2014-12-01 Elton John, Hans-Martin-Schleyer Halle, Stuttgart
+2014-11-21 Mando Diao, Zenith, Muenchen
+2014-11-20 Counting Crows, Theaterfabrik, Muenchen
+2014-11-16 Einstuerzende Neubauten, Muffathalle, Muenchen
+2014-11-14 Phillip Boa & The Voodooclub, Substage, Karlsruhe
+2014-11-05 Tina Dico, Theaterhaus, Stuttgart
+2014-10-24 Morrissey, Konzerthaus, Vienna
+2014-10-23 Marcus Wiebusch, Substage, Karlsruhe
+2014-10-14 Bonaparte, LKA Longhorn, Stuttgart
+2014-10-10 Elaekelaeiset, Substage, Karlsruhe
+2014-10-07 ASP, Theaterhaus, Stuttgart
+2014-10-02 Anathema, Substage, Karlsruhe
+2014-09-12 Kraftwerk, ZKM, Karlsruhe
+2014-08-15 Skrillex, Hockenheimring, Hockenheim
+2014-07-29 Get Well Soon, Kulturzentrum Tollhaus e.V., Karlsruhe
+2014-06-26 Pearl Jam, Kindl Buehne Wuhlheide, Berlin
+2014-06-06 The Subways, Open Air, Eichstaett
+2014-05-11 Dota & Band, Kulturzentrum Tollhaus e.V., Karlsruhe
+2014-05-02 Marcus Wiebusch, Schlachthof, Wiesbaden
+2014-04-14 Judith Holofernes, Theaterhaus, Stuttgart
+2014-04-13 Blood Red Shoes, Wagenhallen, Stuttgart
+2014-04-07 Mogwai, Substage, Karlsruhe
+2014-03-13 Babyshambles, Schlachthof, Wiesbaden
+2014-03-12 Maria Solheim, Keller Klub, Stuttgart
+2013-12-08 Mindless Self Indulgence, Batschkapp (alt), Frankfurt am Main
+2013-11-24 Sigur Ros, Jahrhunderthalle, Frankfurt am Main
+2013-08-27 Eels, Theaterhaus, Stuttgart
+2013-06-22 Queens of the Stone Age, Zitadelle Spandau, Berlin
+2013-05-08 Yeah Yeah Yeahs, l'Olympia, Paris
+2013-04-30 Amplifier, Substage, Karlsruhe
+2013-04-22 Johnossi, Substage, Karlsruhe
+2013-04-16 Bernhard Eder, Kohi, Karlsruhe
+2013-02-08 Black Light Burns, Nachtleben, Frankfurt am Main
+2012-12-02 Florence + the Machine, Jahrhunderthalle, Frankfurt am Main
+2012-11-30 The xx, Zenith, Muenchen
+2012-11-20 The Red Paintings, Hafen 2, Offenbach
+2012-11-19 Olli Schulz, Kulturzentrum Tollhaus e.V., Karlsruhe
+2012-11-15 Kettcar, Substage, Karlsruhe
+2012-11-12 Muse, Olympiahalle, Muenchen
+2012-11-04 Bonaparte, Substage, Karlsruhe
+2012-10-20 Tina Dico, Kulturzentrum Tollhaus e.V., Karlsruhe
+2012-10-05 Home of the Lame, Nun, Karlsruhe
+2012-10-04 Elaekelaeiset, Substage, Karlsruhe
+2012-09-29 Radiohead, Kindl Buehne Wuhlheide, Berlin
+2012-07-20 Maximo Park, Guenther-Klotz-Anlage, Karlsruhe
+2012-07-07 Digitalism, Weltkulturerbe, Voelklingen
+2012-06-27 Jack White, E-Werk, Koeln
+2012-05-25 The Ting Tings, Astra, Berlin
+2012-03-27 Bernhard Eder, Wohnzimmer, Hadamar
+2011-11-27 Portugal. The Man, Substage, Karlsruhe
+2011-10-29 Jupiter Jones, Substage, Karlsruhe
+2011-09-26 Jason Webley, Ponyhof, Frankfurt am Main
+2011-09-10 Art Brut, Conne Island, Leipzig
+2011-09-09 Jason Webley, Wagenplatz Karlhelga, Leipzig
+2011-09-05 Jason Webley, bauwagenplatz, Koeln
+2011-07-21 Skunk Anansie, Guenther-Klotz-Anlage, Karlsruhe
+2011-07-09 Nobuo Uematsu, Philharmonie, Koeln
+2011-07-08 Cake, Essigfabrik, Koeln
+2011-06-20 Arctic Monkeys, Admiralspalast, Berlin
+2011-06-19 Bright Eyes, C-Halle, Berlin
+2011-06-01 Amplifier, Substage, Karlsruhe
+2011-05-20 Yusuf Islam, Ahoy, Rotterdam
+2011-05-13 Kaki King, Fabrik, Hamburg
+2011-05-07 Mando Diao, Freilicht Buehne, Hamburg
+2011-04-15 Does It Offend You, Yeah?, Luxor, Koeln
+2011-03-26 Jamiroquai, Olympiahalle, Muenchen
+2011-03-19 Cake, La Cigale, Paris
+2011-03-09 Beatsteaks, Jahrhunderthalle, Frankfurt am Main
+2011-02-21 PJ Harvey, Admiralspalast, Berlin
+2011-01-31 Bernhard Eder, Wohnzimmer, Hadamar
+2010-12-14 Sophia, Walhalla Studio Theater, Wiesbaden
+2010-12-01 Blood Red Shoes, Batschkapp (alt), Frankfurt am Main
+2010-11-29 Klaxons, Luxor, Koeln
+2010-11-21 Gorillaz, Velodrom, Berlin
+2010-11-18 Frittenbude, 603QM, Darmstadt
+2010-11-02 Rasmus Kellerman, Studio 672, Koeln
+2010-10-24 Einstuerzende Neubauten, C-Club, Berlin
+2010-10-23 Einstuerzende Neubauten, C-Halle, Berlin
+2010-09-27 Goldfrapp, Essigfabrik, Koeln
+2010-09-17 Olli Schulz, MuK, Giessen
+2010-09-10 Eels, Astra, Berlin
+2010-09-09 Atari Teenage Riot, Batschkapp (alt), Frankfurt am Main
+2010-08-18 Leonard Cohen, Waldbuehne, Berlin
+2010-08-11 Portugal. The Man, Centralstation, Darmstadt
+2010-08-10 U2, Commerzbank-Arena, Frankfurt am Main
+2010-07-01 The Dead Weather, Huxleys Neue Welt, Berlin
+2010-06-30 Pearl Jam, Kindl Buehne Wuhlheide, Berlin
+2010-06-25 Egotronic, Philosophikum II, Giessen
+2010-06-21 Tegan and Sara, Mousonturm, Frankfurt am Main
+2010-06-17 Anathema, Batschkapp (alt), Frankfurt am Main
+2010-06-10 Frittenbude, Circus Maximus, Koblenz
+2010-05-31 Sophia, MuK, Giessen
+2010-04-29 Evelyn Evelyn, Kampnagel, Hamburg
+2010-04-11 Bernhard Eder, Fabisch@ Circus Hostel, Berlin
+2010-03-26 Kaki King, Musikzentrum, Hannover
+2010-03-22 Hadouken! / Does It Offend You, Yeah?, Werk II, Leipzig
+2009-12-15 Deichkind, AWD-Hall, Hannover
+2009-11-08 Kettcar, Astra, Berlin
+2009-11-01 Jason Webley, Eschschloraque, Berlin
+2009-10-30 Massive Attack, Tempodrom, Berlin
+2009-09-23 Does It Offend You, Yeah?, Prinzenbar, Hamburg
+2009-09-17 Amanda Palmer, Muenze, Berlin
+2009-09-07 Muse, Admiralspalast, Berlin
+2009-07-30 Tiger Lou, KFZ, Marburg
+2009-07-18 U2, Olympiastadion, Berlin
+2009-07-07 Regina Spektor, Fritzclub im Postbahnhof, Berlin
+2009-07-04 Nouvelle Vague, Astra, Berlin
+2009-06-30 Nine Inch Nails, Berlin Arena, Berlin
+2009-06-16 Faith No More, Kindl Buehne Wuhlheide, Berlin
+2009-06-08 Depeche Mode, Zentralstadion, Leipzig
+2009-06-04 Kettcar, Factory, Magdeburg
+2009-05-09 Metric, Magnet Club, Berlin
+2009-05-06 Yeah Yeah Yeahs, C-Halle, Berlin
+2009-04-25 IAMX, Festsaal Kreuzberg, Berlin
+2009-04-23 Bernhard Eder, Cafe Central, Magdeburg
+2009-04-21 Bernhard Eder, NochBesserLeben, Leipzig
+2009-04-18 Olli Schulz, Factory, Magdeburg
+2009-04-16 Anna Ternheim, Postbahnhof, Berlin
+2009-04-09 Mando Diao, C-Halle, Berlin
+2009-03-27 Soap&Skin, Schauspiel Leipzig, Centraltheater, Leipzig
+2009-03-18 Bernhard Eder, Alte Schlosserei, Leipzig
+2009-02-05 Mindless Self Indulgence, C-Club, Berlin
+2009-01-11 Rose Kemp, naTo, Leipzig
+2008-12-14 Olli Schulz, Postbahnhof, Berlin
+2008-12-13 Tiger Lou, Projekt 7, Magdeburg
+2008-10-18 Bernhard Eder, Horns Erben, Leipzig
+2008-10-17 Bernhard Eder, NochBesserLeben, Leipzig
+2008-10-13 Amanda Palmer, BeatPol, Dresden
+2008-10-03 Helge Schneider, Stadthalle, Magdeburg
+2008-08-19 Amanda Palmer, Logo, Hamburg
+2008-08-13 Sigur Ros, Tempodrom, Berlin
+2008-08-03 The World/Inferno Friendship Society, Zoro, Leipzig
+2008-07-08 Radiohead, Kindl Buehne Wuhlheide, Berlin
+2008-07-01 The Gossip, C-Club, Berlin
+2008-06-15 Deborah Says Play, Lokaal Vredebreuk, Den Haag
+2008-06-13 Jason Webley, dB's studio, Utrecht
+2008-06-10 Rage Against the Machine, Zitadelle Spandau, Berlin
+2008-05-30 Get Well Soon, Objekt 5, Halle (Saale)
+2008-05-29 Jason Webley, Kunst und Bauschlosserei, Leipzig
+2008-05-16 Einstuerzende Neubauten, Haus Auensee, Leipzig
+2008-05-10 Kettcar, C-Halle, Berlin
+2008-04-26 Kristofer Astroem, Projekt 7, Magdeburg
+2008-04-22 Emilie Autumn, Moritzbastei, Leipzig
+2008-04-17 Olli Schulz, Conne Island, Leipzig
+2008-04-12 Mindless Self Indulgence, Magnet Club, Berlin
+2008-03-29 ASP, Factory, Magdeburg
+2008-02-22 Olli Schulz, Roter Salon, Berlin
+2008-02-21 Doi, Maschinenhaus, Berlin
+2008-02-20 Eels, Volksbuehne, Berlin
+2008-02-17 Doi, naTo, Leipzig
+2008-02-15 Bernhard Eder, Cafe Central, Magdeburg
+2008-01-23 Roisin Murphy, Kesselhaus, Berlin
+2007-11-16 Rose Kemp, Ilses Erika, Leipzig
+2007-11-02 ASP, Werk II, Leipzig
+2007-10-27 Bernhard Eder, Schauspielhaus, Magdeburg
+2007-10-10 Bernhard Eder, NochBesserLeben, Leipzig
+2007-07-21 Subway To Sally, Tanzbrunnen, Koeln
+2007-07-14 Die Fantastischen Vier, Uni-Campus, Magdeburg
+2007-07-02 The Gossip, C-Halle, Berlin
+2007-06-21 Pearl Jam, ISS Dome, Duesseldorf
+2007-06-15 Type O Negative, C-Halle, Berlin
+2007-06-12 Rose Kemp, Bastard im Prater, Berlin
+2007-05-04 Olli Schulz, Frannz Club, Berlin
+2007-04-29 Blumfeld, Fritzclub im Postbahnhof, Berlin
+2007-04-22 Einstuerzende Neubauten, Capitol, Hannover
+2007-04-04 Nine Inch Nails, Jahrhunderthalle, Frankfurt am Main
+2007-03-24 Nine Inch Nails, C-Halle, Berlin
+2007-03-11 Anna Ternheim, Kalkscheune, Berlin
+2007-02-24 Katzenjammer Kabarett, AZ Aachen, Aachen
+2007-02-23 Regina Spektor, Lido, Berlin
+2007-02-21 Deine Lakaien, Gewandhaus, Leipzig
+2006-12-15 Rose Kemp, NochBesserLeben, Leipzig
+2006-11-25 Muse, Berlin Arena, Berlin
+2006-11-04 The Dresden Dolls, Roundhouse, London
+2006-11-03 The Dresden Dolls, Roundhouse, London
+2006-09-10 Samsas Traum, Kato, Berlin
+2006-09-03 The Dresden Dolls, Kesselhaus, Berlin
+2006-09-02 The Dresden Dolls, Uebel & Gefaehrlich, Hamburg
+2006-06-25 Sigur Ros, Lichtburg, Essen
+2006-06-08 Roger Waters, Kindl Buehne Wuhlheide, Berlin
+2006-06-07 Tool, Berlin Arena, Berlin
+2006-06-06 Tool, Alsterdorfer Sporthalle, Hamburg
+2006-05-14 The Dresden Dolls, Spiegelzelt an den Deichtorhallen, Hamburg
+2006-05-14 The Dresden Dolls, Postbahnhof, Berlin
+2006-02-17 Wise Guys, Steintor-Variete, Halle (Saale)
+2006-02-03 Phillip Boa & The Voodooclub, Factory, Magdeburg
+2006-01-13 Fiddler's Green, Studentenclub Baracke, Magdeburg
+2006-01-12 Herman van Veen, Stadthalle, Magdeburg
+2005-10-28 Coldplay, Koenig Pilsener Arena, Oberhausen
+2005-10-02 Kettcar, Factory, Magdeburg
+2005-07-02 Roisin Murphy, Zirkuszelt, Freiburg
+2005-06-25 System of a Down, Koenig Pilsener Arena, Oberhausen
+2005-06-16 Wiglaf Droste und das Spardosenterzett, Oli Lichtspiele, Magdeburg
+2005-06-15 Nine Inch Nails, C-Halle, Berlin
+2005-06-10 Die Aerzte, Eichenring, Scheessel
+2005-03-31 Nine Inch Nails, Astoria, London
+2005-03-30 Nine Inch Nails, Astoria, London
+2004-12-11 Die Toten Hosen, Festhalle, Frankfurt am Main
+2004-08-07 Wolfsheim, Flugplatz Hildesheim, Hildesheim
+2004-06-04 Evanescence, Nuerburgring, Nuerburg
+2004-05-07 Rosenstolz, Stadthalle, Magdeburg
+2004-04-08 Goethes Erben, Factory, Magdeburg
+2003-10-22 Muse, Stadthalle, Offenbach
+2003-10-11 Wise Guys, Stadthalle, Frickhofen
+2003-09-12 Apocalyptica, Factory, Magdeburg
+2003-08-09 Placebo, Flugplatz Hildesheim, Hildesheim
+2003-05-21 Placebo, Stadthalle, Offenbach
+2003-03-31 Coldplay, Jahrhunderthalle, Frankfurt am Main
+2002-09-04 Korn, Jahrhunderthalle, Frankfurt am Main
+2002-09-03 Nightwish, Palladium, Koeln
+2002-08-16 Die Toten Hosen, Flughafen Niederrhein, Weeze
+2002-08-09 Die Happy, Auf dem Acker, Hoechstenbach
+2002-07-17 Kungfu, Underground, Koeln
+2002-06-25 Soulfly, Batschkapp (alt), Frankfurt am Main
+2002-06-22 Wise Guys, Stadthalle, Frickhofen
+2002-05-18 Roger Waters, Lanxess Arena, Koeln
+2002-03-10 System of a Down, Stahlwerk, Duesseldorf
+2001-11-28 Machine Head, Stahlwerk, Duesseldorf
+2001-11-13 Subway To Sally, KUZ, Mainz
+2001-09-01 Marilyn Manson, Bodenseestadion, Konstanz
+2001-06-01 Limp Bizkit, Nuerburgring, Nuerburg
+2001-05-12 R.E.M., Roncalliplatz, Koeln
+2001-02-01 Marilyn Manson, Palladium, Koeln
+2000-06-09 Rage Against the Machine, Nuerburgring, Nuerburg
