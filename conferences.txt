@@ -1,3 +1,6 @@
+2024-06-06 (2d) Area41 (CH, Zurich)
+2024-06-05 (1d) OWASP Switzerland Summit (CH, Zurich)
+2024-05-30 (4d) GPN22 (DE, Kalrsruhe)
 2023-12-27 (4d) 37C3 (DE, Hamburg)
 2023-09-28 (2d) BruCON (BE, Mechelen)
 2023-09-15 (1d) BSides Frankfurt (DE, Frankfurt)
