@@ -1,3 +1,5 @@
+2025-02-20 (2d) RuhrSec (DE, Bochum)
+2024-12-27 (4d) 38C3 (DE, Hamburg)
 2024-11-13 (1d) German OWASP Day (DE, Leipzig)
 2024-10-03 (4d) MRMCD (DE, Darmstadt)
 2024-06-06 (2d) Area41 (CH, Zurich)
