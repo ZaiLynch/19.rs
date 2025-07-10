@@ -1,3 +1,4 @@
+2025-06-19 (4d) GPN23 (DE, Kalrsruhe)
 2025-02-20 (2d) RuhrSec (DE, Bochum)
 2024-12-27 (4d) 38C3 (DE, Hamburg)
 2024-11-13 (1d) German OWASP Day (DE, Leipzig)
