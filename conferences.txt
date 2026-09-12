@@ -1,3 +1,6 @@
+2026-09-11 (3d) MRMCD (DE, Darmstadt)
+2026-07-13 (3d) Dagstuhl - Web Security (DE, Dagstuhl)
+2026-06-04 (4d) GPN24 (DE, Karlsruhe)
 2025-12-27 (4d) 39C3 (DE, Hamburg)
 2025-11-26 (1d) German OWASP Day (DE, Duesseldorf)
 2025-09-12 (3d) MRMCD (DE, Darmstadt)
