@@ -1,92 +1,146 @@
-alert(1);alert(document.domain);prompt(1);/*<html>
+<!--
+alert(1);alert(document.domain);prompt(1);/*
+--><!doctype html>
+<html lang="en">
 <head>
-<meta charset="utf-8">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <!--meta http-equiv="refresh" content="1;url=https://z.ai">
   <script type="text/javascript">
     window.location.href = "https://z.ai"
   </script-->
   <title>⑲.₨</title>
+  <link rel="icon" href="img/zai-site-logo.svg" type="image/svg+xml">
   <style>
-.background {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(255, 255, 255, 0.5); /* Semi-transparent background color */
-    z-index: -2; /* Ensure it stays behind the content */
-    pointer-events: none; /* Ensure it does not interfere with user interactions */
+:root {
+  --bg: #f4f4f2;
+  --surface: #ffffff;
+  --text: #16161a;
+  --muted: #6b6b75;
+  --line: rgba(0, 0, 0, 0.08);
+  --hover: rgba(0, 0, 0, 0.045);
+  --accent: #e5484d;
+  --radius: 16px;
+  --font: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  color-scheme: light;
 }
 
-.background::after {
-    content: '';
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    width: 100%;
-    height: 100%;
-    transform: translate(-50%, -50%);
-    background-image: url('img/zai-site-logo.svg'); /* Path to your SVG file */
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 200px 200px;
-    opacity: 0.5; /* Faded effect */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1b1b1f;
+    --surface: #1f1f24;
+    --text: #ececf1;
+    --muted: #9a9aa5;
+    --line: rgba(255, 255, 255, 0.09);
+    --hover: rgba(255, 255, 255, 0.06);
+    --accent: #ff6369;
+    color-scheme: dark;
+  }
+  .logo { filter: invert(1); }
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 15px/1.45 var(--font);
+  -webkit-font-smoothing: antialiased;
 }
 
 body {
-    overflow: hidden;
-    background-color: #FFFFFF;
+  min-height: 100vh;
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 48px max(16px, env(safe-area-inset-right)) 32px max(16px, env(safe-area-inset-left));
 }
 
-.footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
+main {
   width: 100%;
-  background-color: #FFFFFF;
-  color: #FFFFFF;
+  max-width: 400px;
+}
+
+.top {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 28px;
+}
+
+h1 { margin: 0; line-height: 0; }
+
+.logo {
+  width: 128px;
+  height: 128px;
+}
+
+.links {
+  list-style: none;
+  margin: 0;
+  padding: 6px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+}
+
+.links a {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 11px 14px;
+  border-radius: 10px;
+  color: inherit;
+  text-decoration: none;
+}
+.links a:hover, .links a:focus-visible { background: var(--hover); outline: none; }
+.links a:hover .arrow { color: var(--accent); transform: translateX(2px); }
+
+.links span { font-weight: 550; }
+.links small {
+  color: var(--muted);
+  font-size: 13px;
+  text-align: right;
+}
+.arrow {
+  color: var(--muted);
+  transition: transform 0.15s, color 0.15s;
+}
+
+.links li + li { border-top: 1px solid var(--line); }
+.links li:hover + li, .links li:hover { border-color: transparent; }
+
+footer {
+  margin-top: 28px;
+  color: var(--muted);
+  font-size: 13px;
   text-align: center;
 }
-
-* {
-  color: white;
-}
-
-/* unvisited link */
-a:link {
-  color: black;
-}
-
-/* visited link */
-a:visited {
-  color: black;
-}
-
-/* mouse over link */
-a:hover {
-  color: black;
-}
-
-/* selected link */
-a:active {
-  color: black;
-}
+footer a { color: inherit; text-decoration: none; }
+footer a:hover { color: var(--text); }
   </style>
 </head>
 <body>
-<div class="background"></div>
+<main>
+  <header class="top">
+    <h1><img class="logo" src="img/zai-site-logo.svg" alt="⑲.₨"></h1>
+  </header>
 
-<p>
-<a href="/map.html">/map</a><br />
-<a href="/stats.html">/stats</a><br />
-<a href="/concerts.txt">/concerts.txt</a><br />
-<a href="/conferences.txt">/conferences.txt</a><br />
-<a href="https://mas.to/@zai">@zai@mas.to</a>
-</p>
+  <ul class="links">
+    <li><a href="/map.html"><span>map</span> <small>concerts on a map <span class="arrow">→</span></small></a></li>
+    <li><a href="/stats.html"><span>stats</span> <small>concert statistics <span class="arrow">→</span></small></a></li>
+    <li><a href="/concerts.txt"><span>concerts.txt</span> <small>plain list <span class="arrow">→</span></small></a></li>
+    <li><a href="/conferences.txt"><span>conferences.txt</span> <small>plain list <span class="arrow">→</span></small></a></li>
+    <li><a href="https://mas.to/@zai" rel="me"><span>mastodon</span> <small>@zai@mas.to <span class="arrow">↗</span></small></a></li>
+  </ul>
+</main>
 
-
-
-<div class="footer">
-  <p><a href="https://⑲.₨">⑲.₨</a><!--a href="https://⒚₨">⒚₨</a--></p>
-</div>
-</body></html>*/
+<footer>
+  <a href="https://⑲.₨">⑲.₨</a><!--a href="https://⒚₨">⒚₨</a-->
+</footer>
+</body>
+</html>
+<!--*/-->
