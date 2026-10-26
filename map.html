@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Concert Map · ⑲.₨</title>
+  <meta name="description" content="Every concert I've been to, on a map.">
+  <link rel="icon" href="img/zai-site-logo.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+  <link rel="stylesheet" href="vendor/leaflet.markercluster/MarkerCluster.css">
+  <link rel="stylesheet" href="map.css">
+</head>
+<body>
+  <div id="map" aria-label="Map of concert venues"></div>
+
+  <aside id="panel" class="panel" aria-label="Artists and venues">
+    <header class="panel-head">
+      <button id="sheet-toggle" class="sheet-toggle" type="button" aria-expanded="false" aria-controls="panel-body">
+        <span class="grabber" aria-hidden="true"></span>
+        <span class="visually-hidden">Toggle list</span>
+      </button>
+      <div class="title-row">
+        <h1><a href="/">⑲.₨</a> <span>concerts</span> <a class="stats-link" href="stats.html">Stats →</a></h1>
+        <p id="stats" class="stats"></p>
+      </div>
+      <input id="search" class="search" type="search" placeholder="Search artists, venues, cities…" autocomplete="off" aria-label="Search">
+    </header>
+
+    <div id="panel-body" class="panel-body">
+      <nav class="tabs" role="tablist">
+        <button type="button" role="tab" class="tab" data-tab="artists" aria-selected="true">Artists <span id="count-artists"></span></button>
+        <button type="button" role="tab" class="tab" data-tab="venues" aria-selected="false">Venues <span id="count-venues"></span></button>
+      </nav>
+
+      <section id="detail" class="detail" hidden>
+        <button id="back" class="back" type="button">← All artists</button>
+        <h2 id="detail-title"></h2>
+        <p id="detail-sub" class="muted"></p>
+        <ol id="detail-list" class="concert-list"></ol>
+      </section>
+
+      <ul id="list-artists" class="list" role="tabpanel"></ul>
+      <div id="list-venues" class="list" role="tabpanel" hidden></div>
+      <p id="empty" class="muted empty" hidden>Nothing found.</p>
+    </div>
+  </aside>
+
+  <script src="vendor/leaflet/leaflet.js"></script>
+  <script src="vendor/leaflet.markercluster/leaflet.markercluster.js"></script>
+  <script src="data.js"></script>
+  <script src="map.js"></script>
+</body>
+</html>
