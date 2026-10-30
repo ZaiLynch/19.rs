@@ -250,7 +250,8 @@
 2016-08-03 Skrillex, Surrender Nightclub (Encore), Las Vegas
 2016-08-03 Elle King, Foundation Room (Mandalay Bay), Las Vegas
 2016-08-02 Alice In Chains, House of Blues (Mandalay Bay), Las Vegas
-2016-07-22 Fettes Brot, Günther-Klotz-Anlage, Karlsruhe
+2016-07-24 (Von Brücken, Milky Chance) (Das Fest), Günther-Klotz-Anlage, Karlsruhe
+2016-07-23 (Fettes Brot, Wanda, Django 3000) (Das Fest), Günther-Klotz-Anlage, Karlsruhe
 2016-07-20 Kitty, Daisy & Lewis, Tollhaus, Karlsruhe
 2016-07-19 Grimes, Hilton Hotel, Berlin
 2016-07-16 Cat Power, Tollhaus, Karlsruhe
@@ -323,7 +324,8 @@
 2014-10-07 ASP, Theaterhaus, Stuttgart
 2014-10-02 Anathema, Substage, Karlsruhe
 2014-09-12 Kraftwerk, ZKM, Karlsruhe
-2014-08-15 Skrillex, Hockenheimring, Hockenheim
+2014-08-17 (Placebo, The Prodigy, Deichkind, Egotronic) (Rockenheim), Hockenheimring, Hockenheim
+2014-08-16 (Skrillex, Jan Delay & Disko No.1) (Rockenheim), Hockenheimring, Hockenheim
 2014-07-29 Get Well Soon, Tollhaus, Karlsruhe
 2014-06-26 Pearl Jam, Kindl Buehne Wuhlheide, Berlin
 2014-06-06 The Subways, Open Air, Eichstätt
@@ -354,8 +356,8 @@
 2012-10-05 Home of the Lame, Nun, Karlsruhe
 2012-10-04 Elaekelaeiset, Substage, Karlsruhe
 2012-09-29 Radiohead, Kindl Buehne Wuhlheide, Berlin
-2012-07-20 Maximo Park, Günther-Klotz-Anlage, Karlsruhe
-2012-07-07 Digitalism, Weltkulturerbe, Völklingen
+2012-07-20 Maximo Park (Das Fest), Günther-Klotz-Anlage, Karlsruhe
+2012-07-07 (Digitalism, Bonaparte, Fritz Kalkbrenner) (Magnetic Festival), Weltkulturerbe, Völklingen
 2012-06-27 Jack White, E-Werk, Köln
 2012-05-25 The Ting Tings, Astra, Berlin
 2012-03-27 Bernhard Eder, Wohnzimmer, Hadamar
@@ -365,7 +367,7 @@
 2011-09-10 Art Brut, Conne Island, Leipzig
 2011-09-09 Jason Webley, Wagenplatz Karlhelga, Leipzig
 2011-09-05 Jason Webley, bauwagenplatz, Köln
-2011-07-21 Skunk Anansie, Günther-Klotz-Anlage, Karlsruhe
+2011-07-21 (Skunk Anansie, Wir sind Helden, Bad Religion) (Das Fest), Günther-Klotz-Anlage, Karlsruhe
 2011-07-09 Nobuo Uematsu, Philharmonie, Köln
 2011-07-08 Cake, Essigfabrik, Köln
 2011-06-20 Arctic Monkeys, Admiralspalast, Berlin
@@ -466,8 +468,9 @@
 2007-11-02 ASP, Werk II, Leipzig
 2007-10-27 Bernhard Eder, Schauspielhaus, Magdeburg
 2007-10-10 Bernhard Eder, NochBesserLeben, Leipzig
-2007-07-21 Subway To Sally, Tanzbrunnen, Köln
-2007-07-14 Die Fantastischen Vier, Uni-Campus, Magdeburg
+2007-07-22 (ASP, Unheilig, Front 242, Eisbrecher) (Amphi Festival), Tanzbrunnen, Köln
+2007-07-21 (Katzenjammer Kabarett, Samsas Traum, Emilie Autumn, Subway To Sally) (Amphi Festival), Tanzbrunnen, Köln
+2007-07-14 (Die Fantastischen Vier, Jan Delay & Disko No.1, Mia.) (MTV Campus Invasion), Uni-Campus, Magdeburg
 2007-07-02 The Gossip, Columbiahalle, Berlin
 2007-06-21 Pearl Jam, ISS Dome, Düsseldorf
 2007-06-15 Type O Negative, Columbiahalle, Berlin
@@ -492,8 +495,8 @@
 2006-06-08 Roger Waters, Kindl Buehne Wuhlheide, Berlin
 2006-06-07 Tool, Berlin Arena, Berlin
 2006-06-06 Tool, Alsterdorfer Sporthalle, Hamburg
+2006-05-15 The Dresden Dolls, Postbahnhof, Berlin
 2006-05-14 The Dresden Dolls, Spiegelzelt an den Deichtorhallen, Hamburg
-2006-05-14 The Dresden Dolls, Postbahnhof, Berlin
 2006-02-17 Wise Guys, Steintor-Variete, Halle (Saale)
 2006-02-03 Phillip Boa & The Voodooclub, Factory, Magdeburg
 2006-01-13 Fiddler's Green, Studentenclub Baracke, Magdeburg
@@ -501,26 +504,34 @@
 2005-10-28 Coldplay, Koenig Pilsener Arena, Oberhausen
 2005-10-02 Kettcar, Factory, Magdeburg
 2005-07-02 Roisin Murphy, Zirkuszelt, Freiburg
-2005-06-25 System of a Down, Koenig Pilsener Arena, Oberhausen
+2005-06-25 (System of a Down, Nine Inch Nails, Motörhead, Helmet, Beatsteaks, Kettcar) (Area4), Koenig Pilsener Arena, Oberhausen
 2005-06-16 Wiglaf Droste und das Spardosenterzett, Oli Lichtspiele, Magdeburg
-2005-06-15 Nine Inch Nails, Columbiahalle, Berlin
-2005-06-10 Die Aerzte, Eichenring, Scheeßel
-2005-03-31 Nine Inch Nails, Astoria, London
-2005-03-30 Nine Inch Nails, Astoria, London
+2005-06-15 (Nine Inch Nails, The Dresden Dolls), Columbiahalle, Berlin
+2005-06-12 (Beck, Die Aerzte) (Hurricane), Eichenring, Scheeßel
+2005-06-11 (Amplifier, Olli Schulz und der Hund Marie, Fantômas, Slut, Audioslave, System of a Down) (Hurricane), Eichenring, Scheeßel
+2005-06-10 (The Dresden Dolls, Kettcar, Nine Inch Nails, Wir sind Helden) (Hurricane), Eichenring, Scheeßel
+2005-03-31 (Nine Inch Nails, The Dresden Dolls), Astoria, London
+2005-03-30 (Nine Inch Nails, The Dresden Dolls), Astoria, London
 2004-12-11 Die Toten Hosen, Festhalle, Frankfurt am Main
-2004-08-07 Wolfsheim, Flugplatz Hildesheim, Hildesheim
-2004-06-04 Evanescence, Nuerburgring, Nürburg
+2004-08-08 (Schandmaul, Samsas Traum, Oomph!, Lacrimosa) (M'era Luna), Flugplatz Hildesheim, Hildesheim
+2004-08-07 (ASP, Welle:Erdball, Lame Immortelle, In Extremo, Within Temptation, Wolfsheim) (M'era Luna), Flugplatz Hildesheim, Hildesheim
+2004-06-06 Moloko (Rock am Ring), Nuerburgring, Nürburg
+2004-06-05 (3 Doors Down, Nickelback, Muse, Faithless, Red Hot Chili Peppers) (Rock am Ring), Nuerburgring, Nürburg
+2004-06-04 (Korn, Evanescence) (Rock am Ring), Nuerburgring, Nürburg
 2004-05-07 Rosenstolz, Stadthalle, Magdeburg
 2004-04-08 Goethes Erben, Factory, Magdeburg
 2003-10-22 Muse, Stadthalle, Offenbach
 2003-10-11 Wise Guys, Stadthalle, Frickhofen
 2003-09-12 Apocalyptica, Factory, Magdeburg
-2003-08-09 Placebo, Flugplatz Hildesheim, Hildesheim
+2003-08-10 (Placebo, Apocalyptica, Subway To Sally, Phillip Boa & The Voodooclub, Within Temptation) (M'era Luna), Flugplatz Hildesheim, Hildesheim
+2003-08-09 (Killing Joke, Deine Lakaien, Nightwish, Project Pitchfork) (M'era Luna), Flugplatz Hildesheim, Hildesheim
 2003-05-21 Placebo, Stadthalle, Offenbach
 2003-03-31 Coldplay, Jahrhunderthalle, Frankfurt am Main
 2002-09-04 Korn, Jahrhunderthalle, Frankfurt am Main
 2002-09-03 Nightwish, Palladium, Köln
-2002-08-16 Die Toten Hosen, Flughafen Niederrhein, Weeze
+2002-08-18 (Farin Urlaub, Puddle of Mudd, Incubus, Die Toten Hosen) (Bizarre), Flughafen Niederrhein, Weeze
+2002-08-17 (Korn, Filter, Fettes Brot) (Bizarre), Flughafen Niederrhein, Weeze
+2002-08-16 (DJ Shadow, Nickelback, The Chemical Brothers) (Bizarre), Flughafen Niederrhein, Weeze
 2002-08-09 Die Happy, Auf dem Acker, Höchstenbach
 2002-07-17 Kungfu, Underground, Köln
 2002-06-25 Soulfly, Batschkapp (alt), Frankfurt am Main
@@ -529,8 +540,12 @@
 2002-03-10 System of a Down, Stahlwerk, Düsseldorf
 2001-11-28 Machine Head, Stahlwerk, Düsseldorf
 2001-11-13 Subway To Sally, KUZ, Mainz
-2001-09-01 Marilyn Manson, Bodenseestadion, Konstanz
-2001-06-01 Limp Bizkit, Nuerburgring, Nürburg
-2001-05-12 R.E.M., Roncalliplatz, Köln
-2001-02-01 Marilyn Manson, Palladium, Köln
-2000-06-09 Rage Against the Machine, Nuerburgring, Nürburg
+2001-09-01 (Marilyn Manson, Die Aerzte, Papa Roach, Clawfinger, Alien Ant Farm) (Rock am See), Bodenseestadion, Konstanz
+2001-06-03 (Limp Bizkit, Kid Rock, Linkin Park, 3 Doors Down, Mudvayne) (Rock am Ring), Nuerburgring, Nürburg
+2001-06-02 HIM (Rock am Ring), Nuerburgring, Nürburg
+2001-06-01 (Radiohead, Tool, Alanis Morissette, (hed) p.e., Godsmack, H-Blockx) (Rock am Ring), Nuerburgring, Nürburg
+2001-05-12 (R.E.M., Seeed), Roncalliplatz, Köln
+2001-02-01 (Marilyn Manson, Disturbed), Palladium, Köln
+2000-06-11 (Korn, Rage Against the Machine, Die Toten Hosen) (Rock am Ring), Nuerburgring, Nürburg
+2000-06-10 (One Minute Silence, Kittie, Methods of Mayhem, Deftones, Slipknot) (Rock am Ring), Nuerburgring, Nürburg
+2000-06-09 (Pearl Jam, Oasis, Bush) (Rock am Ring), Nuerburgring, Nürburg
