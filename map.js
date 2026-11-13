@@ -42,6 +42,64 @@
       : { paddingTopLeft: [r.right + 24, 24], paddingBottomRight: [24, 24] };
   }
 
+  // ---------- setlists ----------
+
+  function songCount(e) {
+    return (e.sets || []).reduce(function (n, s) { return n + s.songs.length; }, 0);
+  }
+
+  // Small "♫ 18" button (setlist with songs) or "setlist ↗" link (page without songs)
+  function setlistBadge(c, artist) {
+    var e = c.setlists[artist];
+    if (!e) return null;
+    if (e.status !== "found") {
+      return el("a", { class: "sl-link", href: e.url, target: "_blank", rel: "noopener", text: "setlist ↗",
+        title: "setlist.fm page (no songs listed)" });
+    }
+    return el("button", { class: "sl-badge" + (state.setlist === e.key ? " active" : ""), type: "button",
+      "data-setlist": e.key, title: "Show setlist", "aria-label": "Setlist, " + plural(songCount(e), "song"),
+      text: "♫ " + songCount(e), onclick: function (ev) { ev.stopPropagation(); toggleSetlist(e.key); } });
+  }
+
+  function findSetlist(key) {
+    var i = key.indexOf("|"), date = key.slice(0, i), artist = key.slice(i + 1);
+    var list = data.byArtist.get(artist) || [];
+    for (var j = 0; j < list.length; j++) {
+      var e = list[j].date === date && list[j].setlists[artist];
+      if (e && e.status === "found") return { concert: list[j], artist: artist, entry: e };
+    }
+    return null;
+  }
+
+  function renderSetlist(key) {
+    var hit = key && findSetlist(key);
+    $("setlist").hidden = !hit;
+    document.querySelectorAll(".sl-badge").forEach(function (b) {
+      b.classList.toggle("active", !!hit && b.dataset.setlist === key);
+    });
+    if (!hit) return;
+    var c = hit.concert, v = c.venueData, e = hit.entry;
+    $("setlist-artist").textContent = hit.artist;
+    $("setlist-sub").textContent = fmtDate(c.date) + " · " + [v.name, v.city].filter(Boolean).join(", ") +
+      (c.event ? " · " + c.event : "");
+    var n = 1, parts = [];
+    e.sets.forEach(function (s, i) {
+      var label = s.encore ? (s.name || "Encore" + (s.encore > 1 ? " " + s.encore : "")) : s.name;
+      if (label || i) parts.push(el("h3", { text: label || "Set " + (i + 1) }));
+      parts.push(el("ol", { start: n }, s.songs.map(function (song) { return el("li", { text: song }); })));
+      n += s.songs.length;
+    });
+    $("setlist-body").replaceChildren.apply($("setlist-body"), parts);
+    $("setlist-body").scrollTop = 0;
+    $("setlist-src").href = e.url;
+  }
+
+  function toggleSetlist(key) {
+    state.setlist = state.setlist === key ? undefined : key;
+    history.replaceState(null, "", hashFor(state));
+    renderSetlist(state.setlist);
+  }
+
   // ---------- map ----------
 
   var map = L.map("map", { zoomControl: false, worldCopyJump: true }).setView([50.5, 9], 6);
@@ -72,6 +130,8 @@
           if (i) names.append(", ");
           names.append(el("button", { class: "artist", type: "button", text: a,
             onclick: function () { go({ artist: a }); } }));
+          var badge = setlistBadge(c, a);
+          if (badge) names.append(" ", badge);
         });
         var extra = [c.event, c.note].filter(Boolean).join(" · ");
         if (extra) names.append(el("small", { text: extra }));
@@ -201,10 +261,10 @@
       var others = c.artists.filter(function (a) { return a !== name; });
       var sub = [v.city, c.event, c.note, others.length ? "with " + others.join(", ") : ""].filter(Boolean).join(" · ");
       return el("li", {}, [el("button", { class: "item", type: "button",
-        onclick: function () { go({ artist: name, venue: c.venue }); } }, [
+        onclick: function () { go({ artist: name, venue: c.venue, setlist: state.setlist }); } }, [
         el("time", { datetime: c.date, text: fmtDate(c.date) }),
         el("span", {}, [document.createTextNode(v.name || "Unknown venue"), el("small", { text: sub })])
-      ])]);
+      ]), setlistBadge(c, name)]);
     }));
   }
 
@@ -220,15 +280,21 @@
     var s = {};
     if (p.get("artist") && data.byArtist.has(p.get("artist"))) s.artist = p.get("artist");
     if (p.get("venue") && data.venues[p.get("venue")]) s.venue = p.get("venue");
+    if (p.get("setlist") && findSetlist(p.get("setlist"))) s.setlist = p.get("setlist");
     return s;
   }
 
-  function writeHash(s) {
+  function hashFor(s) {
     var p = new URLSearchParams();
     if (s.artist) p.set("artist", s.artist);
     if (s.venue) p.set("venue", s.venue);
+    if (s.setlist) p.set("setlist", s.setlist);
     var h = p.toString();
-    history.pushState(null, "", h ? "#" + h : location.pathname + location.search);
+    return h ? "#" + h : location.pathname + location.search;
+  }
+
+  function writeHash(s) {
+    history.pushState(null, "", hashFor(s));
   }
 
   function apply(s, initial) {
@@ -246,6 +312,7 @@
     }
     if (!s.venue) map.closePopup();
     navigating = false;
+    renderSetlist(s.setlist);
     if (s.venue) openVenue(s.venue);
     if (!s.artist && !s.venue && !initial) fitTo(Object.keys(markers));
   }
@@ -285,11 +352,15 @@
       document.documentElement.style.setProperty("--sheet-h", panel.offsetHeight + "px");
     }).observe(panel);
     window.addEventListener("popstate", function () { apply(readHash()); });
+    $("setlist-close").addEventListener("click", function () { if (state.setlist) toggleSetlist(state.setlist); });
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape" && state.setlist) toggleSetlist(state.setlist);
+    });
     map.on("popupclose", function (e) {
       // Closing a popup by hand drops the venue from the URL
       if (!navigating && state.venue && markers[state.venue] === e.popup._source) {
-        state = { artist: state.artist };
-        history.replaceState(null, "", state.artist ? "#" + new URLSearchParams({ artist: state.artist }) : location.pathname);
+        state = { artist: state.artist, setlist: state.setlist };
+        history.replaceState(null, "", hashFor(state));
       }
     });
   }).catch(function (err) {

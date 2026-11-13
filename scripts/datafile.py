@@ -24,3 +24,14 @@ def save_concerts(concerts):
 def save_venues(venues):
     lines = ",\n".join(f"  {_dump(k)}: {_dump(v)}" for k, v in sorted(venues.items()))
     VENUES.write_text("{\n" + lines + "\n}\n", encoding="utf-8")
+
+
+SETLISTS = ROOT / "data" / "setlists.json"
+
+
+def save_setlists(setlists):
+    """Atomic write (temp file + rename) so an aborted run never leaves a broken file."""
+    lines = ",\n".join(f"  {_dump(k)}: {_dump(v)}" for k, v in sorted(setlists.items(), reverse=True))
+    tmp = SETLISTS.with_suffix(".json.tmp")
+    tmp.write_text("{\n" + lines + "\n}\n" if lines else "{}\n", encoding="utf-8")
+    tmp.replace(SETLISTS)

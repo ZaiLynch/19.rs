@@ -45,6 +45,16 @@
     </div>
   </aside>
 
+  <aside id="setlist" class="setlist-card" aria-label="Setlist" hidden>
+    <header class="setlist-head">
+      <button id="setlist-close" class="setlist-close" type="button" aria-label="Close setlist"><span class="x">×</span><span class="back-label">← Back</span></button>
+      <h2 id="setlist-artist"></h2>
+      <p id="setlist-sub" class="muted"></p>
+    </header>
+    <div id="setlist-body" class="setlist-body"></div>
+    <footer class="setlist-foot"><a id="setlist-src" target="_blank" rel="noopener">via setlist.fm ↗</a></footer>
+  </aside>
+
   <script src="vendor/leaflet/leaflet.js"></script>
   <script src="vendor/leaflet.markercluster/leaflet.markercluster.js"></script>
   <script src="data.js"></script>

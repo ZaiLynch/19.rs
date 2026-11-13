@@ -212,6 +212,83 @@ h1 .stats-link:hover { text-decoration: underline; }
   font-variant-numeric: tabular-nums;
 }
 .concert-list small { display: block; color: var(--muted); }
+.concert-list li { display: flex; align-items: center; gap: 4px; }
+.concert-list li .item { flex: 1; min-width: 0; width: auto; }
+
+/* ---------- setlist badge & card ---------- */
+
+.sl-badge, .sl-link {
+  flex: none;
+  padding: 1px 8px;
+  border: 0;
+  border-radius: 999px;
+  background: var(--hover);
+  color: var(--muted);
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  text-decoration: none;
+  cursor: pointer;
+}
+.sl-link { background: none; }
+.sl-badge:hover, .sl-link:hover { color: var(--accent); }
+.sl-badge.active { background: var(--accent); color: var(--accent-text); }
+
+.setlist-card {
+  position: fixed;
+  z-index: 1000;
+  top: 16px;
+  left: calc(16px + 340px + 12px);
+  width: 300px;
+  max-height: calc(100% - 32px);
+  display: flex;
+  flex-direction: column;
+  background: var(--surface);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+  animation: sl-in 0.18s ease-out;
+}
+@keyframes sl-in { from { opacity: 0; transform: translateX(-12px); } }
+
+.setlist-head { position: relative; padding: 16px 44px 8px 16px; }
+.setlist-head h2 { margin: 0; font-size: 18px; letter-spacing: -0.01em; }
+.setlist-head p { margin: 2px 0 0; font-size: 13px; }
+.setlist-close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: 2px 9px;
+  border: 0;
+  border-radius: 8px;
+  background: none;
+  color: var(--muted);
+  font-size: 20px;
+  line-height: 1.2;
+  cursor: pointer;
+}
+.setlist-close:hover { background: var(--hover); color: var(--text); }
+.setlist-close .back-label { display: none; }
+
+.setlist-body { flex: 1; min-height: 0; overflow-y: auto; overscroll-behavior: contain; padding: 4px 16px 8px; }
+.setlist-body h3 {
+  margin: 12px 0 4px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.setlist-body ol { margin: 0; padding-left: 2.2em; }
+.setlist-body li { padding: 2px 0; }
+.setlist-body li::marker { color: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; }
+
+.setlist-foot { padding: 10px 16px 14px; border-top: 1px solid var(--line); font-size: 12px; }
+.setlist-foot a { color: var(--accent); text-decoration: none; }
+.setlist-foot a:hover { text-decoration: underline; }
 
 /* ---------- markers & clusters ---------- */
 
@@ -331,4 +408,24 @@ h1 .stats-link:hover { text-decoration: underline; }
   .panel.open .panel-body { display: block; height: 55vh; }
   .leaflet-bottom { bottom: var(--sheet-h, 0px); }
   .leaflet-popup-content { min-width: 200px; }
+
+  /* setlist covers the sheet and slides in from the right */
+  .setlist-card {
+    top: auto;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: auto;
+    max-height: 70vh;
+    z-index: 1001;
+    border-radius: var(--radius) var(--radius) 0 0;
+    border-width: 1px 0 0;
+    padding-bottom: env(safe-area-inset-bottom);
+    animation-name: sl-in-mobile;
+  }
+  @keyframes sl-in-mobile { from { transform: translateX(100%); } }
+  .setlist-head { padding: 12px 16px 8px; }
+  .setlist-close { position: static; margin: 0 0 4px -8px; padding: 4px 8px; font-size: 15px; color: var(--accent); }
+  .setlist-close .x { display: none; }
+  .setlist-close .back-label { display: inline; }
 }
